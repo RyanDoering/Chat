@@ -14,7 +14,9 @@ index.html - Contains the html and css for the chat application
 
 index.js - Contains all of the js server code 
 
+package.json
 
+package-lock.json
 
 Need to run node index.js to start the server
 
